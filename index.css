@@ -162,9 +162,9 @@ main .m-flex a img:hover{
 }
 #color-link{
   color: #007BFF;
-  background-color: white;
+  background-color: #FFC107;
   border-style: none;
-  margin: 4px;
+  
 }
 .color-login{
   background-color: #FFC107;
